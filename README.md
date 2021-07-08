@@ -8,7 +8,7 @@ In my last year (year 3) of my undergraduate degree at Durham University I had t
 - **project_paper.pdf** the paper I wrote that is associated with the project (covers some of the theory and thought behind why I did what I did). 
 
 ### Misc
-If you would like to collaborate on this project and/or want access to the trained models mentioned in the paper then please contact me using my personal email below.
+If you would like to collaborate on this project and/or want access to the trained models mentioned in the paper then please contact me using my personal email found below.
 
 *alex.w.goodall@gmail.com*
 
