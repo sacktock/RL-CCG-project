@@ -21,7 +21,7 @@ Presented below (as a tensorboard screenshot) is the results of a round robin to
 *Additional results can be found in the paper*
 
 ### Experiments
-The code for much of the experiments and final validation tournaments outlined in the paper is ommited, this is because it is very similar to the code in **agents.py**. Using the code in **agents.py** I'm sure you can quickly work out how to write some code to run a round robin tournament and/or run some experiments by playing around with some of hyper-parameters.
+The code for much of the experiments and final validation tournaments outlined in the paper is ommited, this is because it is very similar to the code in **agents.py**. Using the code in **agents.py** I'm sure you can quickly work out how to write some code to run a round robin tournament and/or run some experiments by playing around with some of the hyper-parameters.
 
 *If you are interested in some of the specific code for some of the experiments please contact me (my personal email is given below).*
 
