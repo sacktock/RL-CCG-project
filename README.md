@@ -14,6 +14,10 @@ In my last year (year 3) of my undergraduate degree at Durham University I had t
 ## Results
 Presented below (as a tensorboard screenshot) is the results of a round robin tournament between the MCTS agent, Q-network agent, two baseline agents, and two state of the art agents (Coac and Reinforced Greediness). 
 
+![Image](./images/tournament.png)
+
+![Image](./images/legend.png)
+
 *Additional results can be found in the paper*
 
 ### Experiments
